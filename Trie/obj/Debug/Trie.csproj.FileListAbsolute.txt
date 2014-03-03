@@ -1,0 +1,23 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie\bin\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie\bin\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie\obj\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie\obj\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie\bin\Debug\Trie.dll
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie\bin\Debug\Trie.pdb
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie\obj\Debug\Trie.dll
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie\obj\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\bin\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\bin\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\obj\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\obj\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\bin\Debug\PowerCollections.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie\bin\Debug\PowerCollections.xml
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\bin\Debug\Trie.dll
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\bin\Debug\Trie.pdb
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\bin\Debug\PowerCollections.xml
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\obj\Debug\Trie.dll
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie\obj\Debug\Trie.pdb

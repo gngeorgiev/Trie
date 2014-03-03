@@ -1,0 +1,28 @@
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\bin\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\bin\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\obj\Debug\Trie.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\MadSearch\Trie.Tests\obj\Debug\Trie.Tests.pdb
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.dll
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.pdb
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.csprojResolveAssemblyReference.cache
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\Users\gngeorgiev\Documents\Visual Studio 2013\Projects\VirtualMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\bin\Debug\Trie.pdb
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\Users\Georgi\Documents\Visual Studio 2012\Projects\VirtualizedMultiColumnComboBox\Trie.Tests\obj\Debug\Trie.Tests.pdb
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\obj\Debug\Trie.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\bin\Debug\Trie.dll
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\bin\Debug\Trie.pdb
+C:\Users\Georgi\Dropbox\Projects\Trie\Trie.Tests\obj\Debug\Trie.Tests.pdb
